@@ -3,7 +3,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;（https://zenodo.org/record/3668451)
 </br>
 
-This is the artifact for the ICSE 2020 Technical Track paper: "Watchman: Monitoring Dependency Conflicts for Python Library Ecosystem". A pre-print of this paper is available at [Accepted Paper #702.pdf](http://faculty.neu.edu.cn/swc/wangying/Paper/Watchman.pdf).
+This technique has been published on ICSE 2020 Technical Track paper: "Watchman: Monitoring Dependency Conflicts for Python Library Ecosystem". A pre-print of this paper is available at [Accepted Paper #702.pdf](http://faculty.neu.edu.cn/swc/wangying/Paper/Watchman.pdf).
 
 Project description
 ===
