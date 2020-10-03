@@ -10,7 +10,7 @@ Project description
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <span style="">
-Watchman is a bot and also an online tool ([**http://www.watchman-pypi.com/**](http://www.watchman-pypi.com/)), which can performs a holistic analysis from the perspective of the entire PyPI ecosystem, to monitor the dependency conflicts (DCs) caused by library updates.
+Watchman is **a bot (a free subscription on GitHub Marketplace)** and also an online tool ([**http://www.watchman-pypi.com/**](http://www.watchman-pypi.com/)), which can performs a holistic analysis from the perspective of the entire PyPI ecosystem, to monitor the dependency conflicts (DCs) caused by library updates.
 </span></br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <span style="">
