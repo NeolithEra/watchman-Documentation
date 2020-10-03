@@ -59,8 +59,6 @@ Recommended browser
 The recommended browser is Chrome (version 79.0.3945.130 and higher).
 </span>
 
-Artifact Evaluation
-===
 
 
 
